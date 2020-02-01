@@ -1,0 +1,490 @@
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroClientes.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroFornecedores.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroProdutos.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaCliente.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Splash.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+D:\TCC\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroClientes.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroDeUsuarios.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroFornecedores.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroProdutos.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Caixa.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaCliente.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaProdutos.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Splash.resources
+D:\TCC\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroDeUsuarios.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Caixa.resources
+C:\Users\user\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaProdutos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroClientes.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroDeUsuarios.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroFornecedores.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroProdutos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.CadastroTelinha.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Caixa.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaCliente.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaFornecedores.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.ConsultaProdutos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Splash.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+C:\Users\HP\Desktop\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+J:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+J:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+J:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+J:\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+J:\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+J:\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+J:\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+J:\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+J:\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+J:\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+J:\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+J:\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+J:\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFuncionarios.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+J:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+D:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+D:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+D:\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+D:\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+D:\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+D:\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+D:\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+D:\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+D:\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+D:\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+D:\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+D:\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+D:\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFuncionarios.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+D:\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmReposicao.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+D:\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFuncionarios.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorioReposicao.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha2.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmReposicao.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.cache
+D:\Lup\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.compiled
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFuncionarios.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorioReposicao.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha2.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmReposicao.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.cache
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.compiled
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+C:\Users\user\Desktop\Lup\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe.config
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.exe
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.pdb
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\msvcr120.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\msvcr120.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.exe
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\SistemaTCC2.pdb
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Common.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.Design.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.ReportViewer.WinForms.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.SqlServer.Types.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\mscorlib.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\MySql.Data.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\System.Net.Http.xml
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\pt-BR\mscorlib.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\normidna.nlp
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\normnfc.nlp
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\normnfd.nlp
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\normnfkc.nlp
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\bin\Release\normnfkd.nlp
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csprojResolveAssemblyReference.cache
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmAtalhos.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroClientes.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroDeUsuarios.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFornecedores.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroFuncionarios.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroProdutos.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCadastroTelinha.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCaixa.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaCliente.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFornecedores.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaFuncionarios.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaProdutos.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaTelinha.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmConsultaUsuarios.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmCupom.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmFerramentasTelinha.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Form1.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Menu.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorioReposicao.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha2.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmReposicao.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.Properties.Resources.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatorios.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmRelatoriosTelinha.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSobre.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.FrmSplash.resources
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\SistemaTCC2.csproj.GenerateResource.Cache
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.cache
+J:\Lup Atualizadasso\SistemaTCC2\SistemaTCC2\obj\Release\RdlCompile.compiled
